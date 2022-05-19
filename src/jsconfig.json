@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "baseUrl": "src",
+        "jsx": "react",
+        "paths": {
+            "components:/*":[
+                "./components/*"
+            ],
+            "components:/*":[
+                "./containers/*"
+            ],
+            "components:/*":[
+                "./assets/*"
+            ],
+            "components:/*":[
+                "./commons/*"
+            ]
+        }
+    },
+}
+
